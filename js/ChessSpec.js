@@ -1,8 +1,5 @@
-// Ephox Job Application Entry
-// Test Suite
-// (c) 2011 Thomas Davis <thomasalwyndavis@gmail.com>
-// http://thomasdavis.github.com/chess/
-
+// Nguyễn Minh Tâm: 16022119
+// Speech Processing
 
 describe("ChessBoard", function() {
   var chessboard;
