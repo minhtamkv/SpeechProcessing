@@ -1,8 +1,5 @@
-// Ephox Job Application Entry
-// Muckaround Backbone View
-// Usually the API would be a model/collection
-// (c) 2011 Thomas Davis <thomasalwyndavis@gmail.com>
-// http://thomasdavis.github.com/chess/
+// Nguyễn Minh Tâm: 16022119
+// Speech Processing
 
 var ChessBoard_View = Backbone.View.extend({
 	// chessboard is essentially the backend and our Backbone view will render it
