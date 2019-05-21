@@ -1,7 +1,5 @@
-// Ephox Job Application Entry
-// ChessBoard API
-// (c) 2011 Thomas Davis <thomasalwyndavis@gmail.com>
-// http://thomasdavis.github.com/chess/
+// Nguyễn Minh Tâm: 16022119
+// Speech Processing
 
 
 // Wrap API in self executing anonymous function to keep globals tidy
